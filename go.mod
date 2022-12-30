@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/asaskevich/govalidator v0.0.0-20200108200545-475eaeb16496
-	github.com/aws/aws-sdk-go v1.28.9
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/caarlos0/env/v6 v6.2.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/go-sql-driver/mysql v1.5.0
